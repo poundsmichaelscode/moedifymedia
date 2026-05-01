@@ -1,8 +1,7 @@
-Below are the professional project documents you can copy and paste into your project.
 
 ---
 
-# 1. `README.md`
+# 1. `Moedify media Landing Page`
 
 ````md
 # Moedify Media Landing Page
