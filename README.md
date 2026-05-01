@@ -1,7 +1,7 @@
 
 ---
 
-# 1. `Moedify media Landing Page`
+#  `Moedify media Landing Page`
 
 ````md
 # Moedify Media Landing Page
